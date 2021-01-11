@@ -5,5 +5,5 @@ welcome = '환영합니다'
 
 base = '{}번 손님, {}. {}에 오신 것을 {}!'
 new_way = base.format(number, greeting, place, welcome)
-print(base)
+#print(base)
 print(new_way)
